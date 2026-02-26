@@ -24,7 +24,7 @@ if (hero.HasFlag(Powers.Teleport))
     }
 if (hero.HasFlag(Powers.AllMight))
     {
-        Console.WriteLine("Incredible catchphrase activate!");       
+        Console.WriteLine("Go beyond Plus Ultra");       
     }
 
 [Flags] //attribute - a label that other code can make decision with
